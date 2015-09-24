@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Rave-Clone": {
+      "applicationId": "ytgv5JP5AF17U3iXEYfYXELVC38mZvd3945I48Xz"
+    },
+    "_default": {
+      "link": "Rave-Clone"
+    }
+  }
+}
