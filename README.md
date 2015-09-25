@@ -17,4 +17,3 @@
 
 #### Improve
 * Add brute-force protection, resetting the code after a few failed attempts
-* Enhance the input validation to support more countries and number formats
