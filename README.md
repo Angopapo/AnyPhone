@@ -1,6 +1,4 @@
 # AnyPhone
-![alt tag](http://url/to/img.png)
-Objective-C version of AnyPhone example created by Parse.
 
 #### Requirements
 * Parse Account -> Free
@@ -17,3 +15,5 @@ Objective-C version of AnyPhone example created by Parse.
 #### Improve
 * Add brute-force protection, resetting the code after a few failed attempts
 * Enhance the input validation to support more countries and number formats
+
+<img src="http://i.imgur.com/17Y2ySw.png" align="left" height="500" width="340">
